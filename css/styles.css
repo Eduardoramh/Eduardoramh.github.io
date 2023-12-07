@@ -13335,6 +13335,10 @@ a:focus {
   height: 12vh;
 }
 
+.img-valves {
+  height: 55vh;
+}
+
 .visible-on-lg {
   display: none;
 }
@@ -13435,6 +13439,10 @@ a:focus {
 
   .btn-products {
     width: 25vw;
+  }
+
+  .img-valves {
+    height: 95vh;
   }
 
 }
